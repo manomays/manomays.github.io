@@ -52,6 +52,7 @@ a {
 }
 
 .footer {
+    display: block;
     position: absolute;
     width: 100%;
 }
@@ -67,5 +68,5 @@ a {
 #img {
     display: block;
     margin: auto;
-    width: 1000px
+    width: 900px;
 }
