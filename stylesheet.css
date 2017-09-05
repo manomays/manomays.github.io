@@ -1,0 +1,72 @@
+@font-face {
+    font-family: AvenirNext;
+    src: url(avenir-next.otf);
+}
+
+.menu-bar {
+    width: 100%;
+}
+
+#logo img {
+    display: block;
+    margin: auto;
+}
+
+body,html {
+    display: block;
+    margin: auto;
+    width: 960px;
+    margin-top: 0;
+    padding: 0;
+    font-family: AvenirNext
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+.menu {
+    text-align: center;
+}
+
+.menu a {
+    margin-left: 25px;
+    margin-right: 25px;
+    display: inline;
+}
+
+#container {
+    margin-top: 10px;
+    text-align: center;
+}
+
+#container div * {
+    width: 200px;
+}
+
+#container div {
+    display: inline-block;
+    margin-left: 12.5px;
+    margin-right: 12.5px;
+}
+
+.footer {
+    position: relative;
+}
+
+.footer div {
+    display: inline-block;
+    position: relative;
+}
+
+.about, .account, .products, .info, .social {
+    vertical-align: top;
+    width: 150px
+}
+
+#img {
+    display: block;
+    margin: auto;
+    width: 1000px
+}
