@@ -1,6 +1,6 @@
 @font-face {
     font-family: AvenirNext;
-    src: url(avenir-next.otf);
+    src: url(storage/avenir-next.otf);
 }
 
 .menu-bar {
@@ -52,17 +52,16 @@ a {
 }
 
 .footer {
-    position: relative;
+    position: absolute;
+    width: 100%;
 }
 
 .footer div {
     display: inline-block;
     position: relative;
-}
-
-.about, .account, .products, .info, .social {
     vertical-align: top;
-    width: 150px
+    width: 200px;
+    margin: auto;
 }
 
 #img {
