@@ -1,6 +1,6 @@
 @font-face {
     font-family: AvenirNext;
-    src: url(storage/avenir-next.otf);
+    src: url(/storage/avenir-next.otf);
 }
 
 .menu-bar {
