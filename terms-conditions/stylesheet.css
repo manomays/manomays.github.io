@@ -80,3 +80,7 @@ a {
 .social {
     padding: 4px
 }
+
+strong {
+    text-align: center;
+}
