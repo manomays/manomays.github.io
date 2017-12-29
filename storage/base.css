@@ -65,3 +65,8 @@ a {
 .social {
     padding: 4px
 }
+
+html {
+    margin-left: 50px;
+    margin-right: 50px;
+}
