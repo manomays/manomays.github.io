@@ -81,6 +81,11 @@ a {
     padding: 4px
 }
 
+html {
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
 strong {
     text-align: center;
 }
