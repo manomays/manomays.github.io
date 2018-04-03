@@ -4,7 +4,7 @@
 }
 
 .menu-bar {
-    width: 100%;
+
 }
 
 #logo img {
@@ -12,12 +12,11 @@
     margin: auto;
 }
 
-body,html {
+body, html {
     display: block;
     margin: auto;
     margin-top: 0;
     padding: 0;
-    width: 100%;
     font-family: AvenirNext
 }
 
@@ -56,7 +55,7 @@ a {
     text-align: center;
     position: absolute;
     margin: auto;
-    width: 100%;
+    
 }
 
 .footer {
