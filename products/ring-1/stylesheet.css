@@ -3,6 +3,11 @@
     src: url(/storage/avenir-next.otf);
 }
 
+* {
+    
+    font-family: AvenirNext;
+}
+
 .menu-bar {
 
 }
@@ -12,10 +17,10 @@
     margin: auto;
 }
 
-body,html {
+html, body {
     display: block;
     margin: auto;
-    font-family: AvenirNext;
+    max-width: 90%;
 }
 
 a {
@@ -51,12 +56,6 @@ a {
     margin: auto;
 }
 
-#mainimage {
-    display: block;
-    margin: auto;
-    max-width: 900px;
-}
-
 .social {
     padding: 4px
 }
@@ -64,4 +63,21 @@ a {
 html {
     margin-left: 50px;
     margin-right: 50px;
+}
+
+#main {
+    display: flex;
+    flex-direction: row;
+    
+}
+
+#p-img {
+    flex-grow: 1;
+    width: 100%;
+    
+}
+
+#info {
+    flex-grow: 1;
+    padding-left: 50px;
 }

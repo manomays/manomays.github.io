@@ -1,0 +1,18 @@
+{
+  "Earr-70" : {
+    "Available" : 2,
+    "Description" : "Lorem Ipsum",
+    "Color" : "White",
+    "Name" : "Diamond Earrings",
+    "Size" : "Large",
+    "Price" : 349.99000000000001
+  },
+  "Earr-1" : {
+    "Available" : 5,
+    "Description" : "Lorem Ipsum",
+    "Color" : "White",
+    "Name" : "Diamond Earrings",
+    "Size" : "Large",
+    "Price" : 349.99000000000001
+  }
+}

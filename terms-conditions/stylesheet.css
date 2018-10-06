@@ -31,13 +31,19 @@ a {
     display: inline;
 }
 
+.wrapper {
+    text-align: center;
+    margin: 0 auto;
+    width: 1024px
+}
+
 .footer {
     text-align: center;
-    margin: auto;
 }
 
 .footer div {
     display: inline-block;
+    position: relative;
     vertical-align: top;
     width: 200px;
     margin: auto;
